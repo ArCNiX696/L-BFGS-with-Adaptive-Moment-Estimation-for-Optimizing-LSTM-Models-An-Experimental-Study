@@ -5,4 +5,4 @@ Note: The model should be trained by the user.
 - ** PyTorch **: `2.1.0+cu118`
 - **CUDA**: `11.7`
 
-(you should search for the compatibility of these libraries versions by yourself)
+(You should search for the compatibility of these library versions yourself.)
